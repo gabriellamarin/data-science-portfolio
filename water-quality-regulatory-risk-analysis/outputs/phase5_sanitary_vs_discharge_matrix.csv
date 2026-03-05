@@ -1,0 +1,11 @@
+sanitary_band,discharge_band,n_samples
+High,High,247
+High,Low,2715
+High,Medium,2666
+Low,High,13
+Low,Low,326
+Low,Medium,53
+Low,NA,2
+Medium,Low,790
+Medium,Medium,3
+NA,Low,3

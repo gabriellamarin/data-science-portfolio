@@ -1,0 +1,9 @@
+standard_code,parameter_std,limit_type,limit_min,limit_max,limit_unit,basis,notes
+CO_2115,pH,range,6.5,9.0,pH units,,Colombia drinking water guideline
+CO_2115,Turbidity,max,,2.0,NTU,,Colombia drinking water guideline
+EPA,pH,range,6.5,8.5,pH units,,EPA benchmark
+EPA,Turbidity,max,,5.0,NTU,,EPA benchmark
+CO_0631,COD,max,,150.0,mg/L,,Discharge standard reference
+CO_0631,BOD5,max,,50.0,mg/L,,Discharge standard reference
+CO_0631,Total Suspended Solids,max,,100.0,mg/L,,Discharge standard reference
+CO_0631,Temperature,max,,35.0,°C,,Discharge standard reference
