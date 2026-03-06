@@ -20,12 +20,46 @@ Welcome to my data science portfolio! I'm Gabriella Marín, a Chemical Engineer 
 
 ## 📂 Projects
 
-### 1. [Water Quality Prediction](./01-water-quality-prediction/)
-**Description:** Machine learning models to predict water potability based on physicochemical parameters.  
-**Tech Stack:** Python, Pandas, Scikit-learn, Power BI  
-**Status:** 🚧 In Progress
+## 🌊 Water Quality Regulatory Risk Analytics System
 
-*More projects coming soon...*
+**Description**
+
+Multi-layer analytical system for evaluating water quality monitoring data using regulatory frameworks.
+
+Instead of binary compliance (pass/fail), this project models **continuous risk scores (0–100)** and compares multiple regulatory standards.
+
+**Regulatory Frameworks**
+
+- Colombian Potable Water Regulation — Resolution 2115  
+- Colombian Environmental Discharge Regulation — Resolution 0631  
+- EPA benchmark standards  
+
+**Key Features**
+
+- Multi-regulation compliance analysis  
+- Continuous risk scoring system  
+- Sanitary vs environmental risk comparison  
+- Territorial aggregation (municipality and department)  
+- Interactive Power BI dashboard  
+
+**Tech Stack**
+
+Python · Pandas · SQL (SQLite) · Power BI
+
+📁 Project folder  
+`water-quality-risk-regulatory-analytics`
+
+---
+
+# 📈 Current Learning Focus
+
+- Machine Learning Engineering
+- Retrieval-Augmented Generation (RAG)
+- NLP systems
+- Environmental Data Science
+- Data-driven regulatory systems
+
+---
 
 ## 📫 Connect With Me
 
